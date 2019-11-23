@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="cek_sms_permission">Cek Sms Permission</string>
+    <string name="ini_aplikasi_sms_reciver">ini Aplikasi sms reciver</string>
+    <string name="coming_from">Coming From</string>
+    <string name="this_play">Oii, main kesini jadi ngga? sekarang yak.</string>
+    <string name="close">Tutup</string>
+    <string name="incoming_message">Incoming Message</string>
+</resources>
